@@ -111,11 +111,6 @@ const Login = () => {
             <p className="text-xs font-semibold text-blue-600 text-center mb-2">
               🔐 Admin Access Only
             </p>
-            <p className="text-xs text-gray-600 text-center">
-              Username: <span className="font-mono font-bold">admin</span>
-              <br />
-              Password: <span className="font-mono font-bold">admin123</span>
-            </p>
             <p className="text-xs text-gray-500 text-center mt-2">
               This system is for authorized admin use only
             </p>
