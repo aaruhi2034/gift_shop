@@ -13,7 +13,7 @@ A comprehensive **Gift Shop Management System** designed to streamline retail op
 | Name | Role | Contribution |
 |------|------|--------------|
 | **Ashutosh Maurya** | Full Stack Developer | Backend Developer , Database Design , API Development, Server Management , Backend Integration |
-| **Vishvakaram Rajani Shivdatt** | Frontend Development| UI/UX Design , Backend Integration |
+| **Vishvakaram Rajni Shivdatt** | Frontend Development| UI/UX Design , Backend Integration |
 
 ---
 
